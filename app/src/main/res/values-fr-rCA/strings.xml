@@ -2,5 +2,5 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="hello">Bonjour</string>
-    <string name="button_text">le buton</string>
+    <string name="button_text">Le buton</string>
 </resources>
