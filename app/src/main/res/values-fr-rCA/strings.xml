@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">My Application</string>
-    <string name="hello">Bonjour</string>
-    <string name="button_text">Le buton</string>
+    <string name="button_text">Le Clicke</string>
+    <string name="look">Se le u GUI</string>
+    <string name="check">Cheque dis oui</string>
+    <string name="switchText">Swiche oui / non</string>
+    <string name="fill">Fille aru</string>
+    <string name="toast_message">La la la some french la la</string>
+    <string name="switch_message">Le switche je nowe</string>
+    <string name="on">le one</string>
+    <string name="off">le offe</string>
 </resources>
